@@ -10,9 +10,6 @@ A fitness tracking application built with React. This app allows users to log th
 - Track calories burned
 - Responsive design
 
-## Demo
-
-You can view the live demo of the app [here](https://annymous-9358.github.io/act4fitness/).
 
 
 ## Installation
@@ -64,14 +61,4 @@ To deploy the app to GitHub Pages, follow these steps:
 - CSS
 - gh-pages
 
-## Contributing
 
-Contributions are welcome! Please fork the repository and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-If you have any questions or feedback, feel free to reach out to me at [kunikjain31@gmail.com].
